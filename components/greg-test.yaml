@@ -4,7 +4,7 @@ metadata:
   name: greg-artist
   description: Greg artis website
 spec:
-  type: website
+  type: application
   lifecycle: production
   owner: team-a
   system: artist-engagement-portal
