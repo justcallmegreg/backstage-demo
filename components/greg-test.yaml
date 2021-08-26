@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: greg-artist
-  description: Greg artis website
+  name: greg-app
+  description: Greg app
 spec:
   type: application
   lifecycle: production
